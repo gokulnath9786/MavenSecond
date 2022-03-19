@@ -7,5 +7,6 @@ public class MavenSecond {
 private void test1() {
 System.out.println("line 1");
 
+System.out.println("line 3");
 }
 }
